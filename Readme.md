@@ -23,7 +23,7 @@
         <td>Destruct</td>
         <td>public function __destruct()</td>
         <td>The destructor of a class</td>
-        <td>TBD</td>
+        <td>https://www.youtube.com/watch?v=f8SeAh_pZ80</td>
     </tr>
     <tr>
         <td>Lesson 3</td>
