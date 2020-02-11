@@ -16,7 +16,7 @@
         <td>Construct</td>
         <td>public function __construct()</td>
         <td>The constructor of a class</td>
-        <td>TBD</td>
+        <td>https://www.youtube.com/watch?v=4MLA6ssPHGA</td>
     </tr>
     <tr>
         <td>Lesson 2</td>
