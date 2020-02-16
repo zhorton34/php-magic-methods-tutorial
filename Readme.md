@@ -37,7 +37,7 @@
         <td>Call Static</td>
         <td>public static function __callStatic(string $method, array $arguments)</td>
         <td>The __callStatic() method will be called when an undefined or inaccessible static method is called.</td>
-        <td>TBD</td>
+        <td>https://www.youtube.com/watch?v=SFdptDojwJ8</td>
     </tr>
     <tr>
         <td>Lesson 5</td>
