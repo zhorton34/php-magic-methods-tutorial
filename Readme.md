@@ -51,14 +51,14 @@
         <td>Get</td>
         <td>public function __get(string $property)</td>
         <td>The __get() method will be called when getting a member variable of a class.</td>
-        <td>TBD</td>
+        <td>https://www.youtube.com/watch?v=ZDWMeA0sxLI</td>
     </tr>
     <tr>
-        <td>Lesson 7</td>
+        <td>Lesson 6</td>
         <td>Set</td>
         <td>public function __set(string $property)</td>
         <td>The __set() method will be called when setting a member variable of a class.</td>
-        <td>TBD</td>
+        <td>https://www.youtube.com/watch?v=ZDWMeA0sxLI</td>
     </tr>
     <tr>
         <td>Lesson 8</td>
