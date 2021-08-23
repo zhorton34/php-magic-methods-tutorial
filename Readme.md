@@ -1,3 +1,5 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/cleancodestudio.svg?style=social)](https://twitter.com/cleancodestudio) 
+
 # Php Magic Methods
 
 <table>
